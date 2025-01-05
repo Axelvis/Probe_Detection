@@ -37,4 +37,5 @@ This project aims to automate the detection of probes in industrial or medical i
 Install the required dependencies using:
 ```bash
 pip install -r requirements.txt
-
+## Model Weights
+The trained model weights can be downloaded [here](https://drive.google.com/file/d/1HaeDpM5oE94iA5TCPNm2lVG00HR5vhjl/view?usp=drive_link).
