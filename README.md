@@ -34,8 +34,9 @@ This project aims to automate the detection of probes in industrial or medical i
 - torchvision 0.13.0 or later
 - Other libraries: `numpy`, `matplotlib`, `tqdm`, `pillow`, `opencv-python`
 
+The trained model weights can be downloaded [here](https://drive.google.com/file/d/1HaeDpM5oE94iA5TCPNm2lVG00HR5vhjl/view?usp=drive_link).
+
 Install the required dependencies using:
 ```bash
 pip install -r requirements.txt
-## Model Weights
-The trained model weights can be downloaded [here](https://drive.google.com/file/d/1HaeDpM5oE94iA5TCPNm2lVG00HR5vhjl/view?usp=drive_link).
+
